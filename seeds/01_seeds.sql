@@ -1,3 +1,5 @@
+-- Seeds created by me (not used in DB, used seeds created by LHL)
+  
   -- users ENTITY 
   INSERT INTO users(name, email, password) 
   VALUES ('Eva Stanley', 'sebastianguerra@ymail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'), 
