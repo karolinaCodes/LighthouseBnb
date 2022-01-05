@@ -2,7 +2,7 @@
 
 ## Description
 
-Project for Database Design, ERD Creation and SQL Practice.
+An application built for Database Design, ERD Creation & SQL Practice
 
 ## ERD
 
